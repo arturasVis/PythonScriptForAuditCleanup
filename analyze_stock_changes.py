@@ -3,24 +3,47 @@ import numpy as np
 from datetime import datetime
 from collections import defaultdict
 
-def calculate_purchase_price(stock_value, stock_level):
+def calculate_purchase_price(stock_value, stock_level, default_pp=0):
     if stock_level == 0:
-        return 0
-    return stock_value / stock_level
+        return default_pp
+    calculated_pp = stock_value / stock_level
+    return default_pp if calculated_pp == 0 else calculated_pp
+
+# Initialize stock tracker from AutoImport.csv
+print("Reading initial stock levels from AutoImport.csv...")
+initial_stock_df = pd.read_csv('AutoImport.csv')
+stock_tracker = {}
+
+# Initialize stock_tracker with data from AutoImport.csv
+for _, row in initial_stock_df.iterrows():
+    sku = row['SKU']
+    location = row['Stock Location']
+    # Remove commas before converting to float
+    stock_level = float(str(row['Stock level at location']).replace(',', ''))
+    stock_value = float(str(row['Stock value at location']).replace(',', ''))
+    default_purchase_price = float(str(row['Purchase Price']).replace(',', ''))
+    
+    if sku not in stock_tracker:
+        stock_tracker[sku] = {}
+    
+    stock_tracker[sku][location] = {
+        'level': stock_level,
+        'value': stock_value,
+        'purchase_price': calculate_purchase_price(stock_value, stock_level, default_purchase_price)
+    }
+
+print(f"Initialized stock_tracker with {len(stock_tracker)} SKUs from AutoImport.csv")
 
 # Read the CSV file in chunks and sort by date
 chunk_size = 10000
 all_chunks = []
-for chunk in pd.read_csv('QueryData-30-05-25(05_49_45).csv', chunksize=chunk_size):
+for chunk in pd.read_csv('QueryData-30-05-25(12_16_13).csv', chunksize=chunk_size):
     chunk['StockChangeDateTime'] = pd.to_datetime(chunk['StockChangeDateTime'], format='%d/%m/%Y %H:%M:%S')
     all_chunks.append(chunk)
 
 # Combine and sort all chunks by date
 df = pd.concat(all_chunks)
 df = df.sort_values('StockChangeDateTime')
-
-# Initialize stock tracker with level, value, and purchase price
-stock_tracker = {}  # {sku: {location: {'level': 0, 'value': 0, 'purchase_price': 0}}}
 
 # Process each row chronologically
 for _, row in df.iterrows():
@@ -32,7 +55,7 @@ for _, row in df.iterrows():
     date_time = row['StockChangeDateTime']
 
     # Only debug print for specific SKU and location
-    debug_print = (sku == 'D-SAL-LAP' and location == 'Sharjah Warehouse1')
+    debug_print = (sku == 'SCRAP-RAM-NONMETAL' and location == 'Default')
     
     if debug_print:
         print(f"\n{'='*80}")
