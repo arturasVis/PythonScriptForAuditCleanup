@@ -1,0 +1,139 @@
+SKU,Location,StockLevel,StockValue,ChangeSource,PurchasePrice
+AMD-A6-3500,Default,0.0,-0.6,"{'PO PO-4583-3 modified, unitcost readjusted UserName: umarhussain1996@icloud.com': 1, 'Imported from file': 1}",0.0
+AMD-A8-3870,Default,0.0,-1.2,"{'PO PO-4583-3 modified, unitcost readjusted UserName: umarhussain1996@icloud.com': 1, 'Imported from file': 1}",0.0
+AMD-A8-7670K,Default,0.0,-0.6,"{'PO PO-4583-3 modified, unitcost readjusted UserName: umarhussain1996@icloud.com': 1, 'Imported from file': 1}",0.0
+AMD-Athlon-II-X2-B26,Default,0.0,0.4,"{'PO PO-4583-3 modified, unitcost readjusted UserName: umarhussain1996@icloud.com': 1, 'Imported from file': 1}",0.0
+AMD-Ryzen-3-Pro-2200GE,Default,0.0,-0.6,"{'PO PO-4579-2 modified, unitcost readjusted UserName: umarhussain1996@icloud.com': 1, 'Imported from file': 1}",0.0
+AMD-Ryzen-5-4655G,China-Shenzhen Office-450,0.0,-9.094947017729282e-13,"{'PO PO-4775 to OPEN. Due 50 UserName: 1273297632@qq.com': 1, 'PO PO-4775 delivered 50 1273297632@qq.com': 1, 'Added to transfer WT54226052025024209. Username : 1273297632@qq.com': 1}",0.0
+AMD-Ryzen-5-4655G,Default,0.0,-4.547473508864641e-13,"{'Adjust Stock Item Due Level Username : 1273297632@qq.com': 1, 'Stock received from transfer WT54226052025024209. Username : arturas@drmem.com': 1, 'Adjust Stock Item Due Level Username : arturas@drmem.com': 1, 'SCRAPPED BY arturas@drmem.com': 1, 'Imported from file': 1}",0.0
+Alcohol bottles,Sharjah Warehouse1,0.0,-1.7763568394002505e-15,"{'Adjust Stock Item Due Level Username : devananda@drmem.com': 1, 'Stock received from transfer WT74930042025045458. Username : devananda@drmem.com': 1, 'Imported from file': 1, 'SCRAPPED BY pradeep@drmem.com': 1}",0.0
+BZX830G6,China-Shenzhen Office-450,0.0,2.842170943040401e-14,"{'DIRECT ADJUSTMENT BY 1273297632@qq.com': 1, 'PO PO-XUM-150525 delivered 30 1273297632@qq.com': 1, 'Added to transfer WT38720052025082527. Username : 1273297632@qq.com': 1}",0.0
+C1+H510+I510400F+32GB+40608G+1T+512G,Gaming PC & Laptops,58.0,0.0,{'Import Stock Item Composition': 1},0.0
+C1+H610M+I712700+32GB+32GB+4070S12+1TB,Gaming PC & Laptops,4.0,0.0,{'Import Stock Item Composition': 1},0.0
+C2+H510+I510400F+32GB+306012G+1T+512G,Gaming PC & Laptops,786.0,0.0,{'Import Stock Item Composition': 2},0.0
+C2+H610M+I712700+32GB+32GB+4070S12+1TB,Gaming PC & Laptops,4.0,0.0,{'Import Stock Item Composition': 1},0.0
+C3+H610M+I712700+32GB+32GB+4070S12+1TB,Gaming PC & Laptops,4.0,0.0,{'Import Stock Item Composition': 1},0.0
+C4+H610M+I712700+32GB+32GB+4070S12+1TB,Gaming PC & Laptops,4.0,0.0,{'Import Stock Item Composition': 1},0.0
+C5+AM4+R5-5500+32GB+40608G+1T+512G,Gaming PC & Laptops,24.0,0.0,{'Import Stock Item Composition': 1},0.0
+C5+H510+I510400F+32GB+40608G+1T+512G,Gaming PC & Laptops,24.0,0.0,{'Import Stock Item Composition': 1},0.0
+C5+H610M+I712700+32GB+32GB+4070S12+1TB,Gaming PC & Laptops,4.0,0.0,{'Import Stock Item Composition': 1},0.0
+C9+H610M+I712700+32GB+32GB+4070S12+1TB,Gaming PC & Laptops,4.0,0.0,{'Import Stock Item Composition': 1},0.0
+CSE-847-X9DRD-7LN4F-SPEC3,Default,-10.0,0.0,{'SCRAPPED BY kris@drmem.com': 1},-0.0
+CSE-847-X9DRD-7LN4F-SPEC4,Default,-22.0,0.0,{'SCRAPPED BY kris@drmem.com': 1},-0.0
+CSE-847-X9DRD-7LN4F-SPEC5,Default,-6.0,0.0,{'SCRAPPED BY kris@drmem.com': 1},-0.0
+Celeron-G4900T,Default,0.0,-0.6,"{'PO PO-4579-2 modified, unitcost readjusted UserName: umarhussain1996@icloud.com': 1}",0.0
+Core-E4400,Default,0.0,-0.8,"{'PO PO-4583-3 modified, unitcost readjusted UserName: umarhussain1996@icloud.com': 1, 'Imported from file': 1}",0.0
+Core-E6550,Default,0.0,-0.6,"{'PO PO-4579-2 modified, unitcost readjusted UserName: umarhussain1996@icloud.com': 1, 'Imported from file': 1}",0.0
+Core-E6750,Default,0.0,-0.8,"{'PO PO-4583-3 modified, unitcost readjusted UserName: umarhussain1996@icloud.com': 1, 'Imported from file': 1}",0.0
+Core-E7500,Default,0.0,-16.4,"{'PO PO-4583-3 modified, unitcost readjusted UserName: umarhussain1996@icloud.com': 1, 'Imported from file': 1, 'PO PO-4579-2 modified, unitcost readjusted UserName: umarhussain1996@icloud.com': 1}",0.0
+Core-E7600,Default,0.0,-0.6,"{'PO PO-4579-2 modified, unitcost readjusted UserName: umarhussain1996@icloud.com': 1}",0.0
+Core-E8600,Default,0.0,-0.8,"{'PO PO-4583-3 modified, unitcost readjusted UserName: umarhussain1996@icloud.com': 1, 'Imported from file': 1}",0.0
+Core-Q8200,Default,0.0,-0.8,"{'PO PO-4583-3 modified, unitcost readjusted UserName: umarhussain1996@icloud.com': 1, 'Imported from file': 1}",0.0
+DPD-UK,Default,-40.0,0.0,"{'Order 580212 ref: D1505251847': 1, 'Order 580315 ref: D1605253633': 1, 'Order 580317 ref: D1405251927': 1, 'Order 580146 ref: D1405251927': 1, 'Order 580583 ref: D2005250125': 1, 'Order 580658 ref: D2105252325': 1, 'Order 580659 ref: D2105252732': 1, 'Order 580729 ref: D2205252646': 1, 'Order 580667 ref: D2105251642': 1, 'Order 580644 ref: D2105250840': 1, 'Order 580662 ref: D2105255029': 1, 'Order 580749 ref: D2205254621': 1, 'Order 580748 ref: D2205255632': 1, 'Order 579788 ref: D0905253152': 1, 'Order 580806 ref: D2305254035': 1, 'Order 580737 ref: D2205252758': 1, 'Order 581114 ref: D2705251724': 1, 'Order 581198 ref: D0805250126': 1, 'Order 581197 ref: D2805251253': 1, 'Order 581317 ref: D2905253324': 1}",-0.0
+DX4GDDR3-UF,Sharjah,-352.0,0.0,{'SCRAPPED BY office@drmem.com': 1},-0.0
+DX8GDDR3LU1600,Default,0.0,0.005000000000003446,"{'PO PO-XUM-080525 delivered 2 alfred@drmem.com': 4, 'PO PO-XUM-080525 purchase item line update UserName: alfred@drmem.com': 4, 'PO PO-XUM-080525, new item added to PO UserName: alfred@drmem.com': 2, 'Imported from file': 2, 'PO PO-XUM-080525 delivered 1 alfred@drmem.com': 1, 'Order 580522 ref: 25-13077-44612': 1, 'Order 580273 ref: 11-13081-28421': 1, 'Order 580788 ref: 24-13106-80829': 1, 'Order 580719 ref: 10-13107-11510': 1, 'PO PO-XUM-080525 delivered 6 alfred@drmem.com': 1, 'Order 580912 ref: 27-13095-36548': 1, 'Order 581012 ref: 11-13121-19248': 1, 'Order 581096 ref: 14-13121-40630': 1}",0.0
+E5-2620 v3-Composition,Default,44.0,0.0,"{'OPENING STOCK': 1, 'PO CPU for Composition to OPEN. Due 22 UserName: kris@drmem.com': 1, 'PO CPU for Composition delivered 22 kris@drmem.com': 1}",0.0
+E5-2620 v4-Coposition,Default,8.0,0.0,"{'OPENING STOCK': 1, 'PO CPU for Composition to OPEN. Due 4 UserName: kris@drmem.com': 1, 'PO CPU for Composition delivered 4 kris@drmem.com': 1}",0.0
+E5-2650V3-Composition,Default,20.0,0.0,"{'OPENING STOCK': 1, 'PO CPU for Composition to OPEN. Due 10 UserName: kris@drmem.com': 1, 'PO CPU for Composition delivered 10 kris@drmem.com': 1}",0.0
+E5-2690V3-Composition,Default,44.0,0.0,"{'OPENING STOCK': 1, 'PO CPU for Composition to OPEN. Due 22 UserName: kris@drmem.com': 1, 'PO CPU for Composition delivered 22 kris@drmem.com': 1}",0.0
+E5-2690V4-Coposition,Default,12.0,0.0,"{'OPENING STOCK': 1, 'PO CPU for Composition to OPEN. Due 6 UserName: kris@drmem.com': 1, 'PO CPU for Composition delivered 6 kris@drmem.com': 1}",0.0
+E7400,Default,0.0,-1.2,"{'PO PO-4579-2 modified, unitcost readjusted UserName: umarhussain1996@icloud.com': 1}",0.0
+E8400,Default,0.0,-8.999999999999998,"{'Imported from file': 2, 'PO PO-4583-3 modified, unitcost readjusted UserName: umarhussain1996@icloud.com': 1, 'PO PO-4579-2 modified, unitcost readjusted UserName: umarhussain1996@icloud.com': 1}",0.0
+G3220,Default,0.0,-8.000000000000028,"{'Imported from file': 2, 'PO PO-4583-3 modified, unitcost readjusted UserName: umarhussain1996@icloud.com': 1, 'PO PO-4579-2 modified, unitcost readjusted UserName: umarhussain1996@icloud.com': 1, 'PO PO-4579-2 to DELIVERED. Due 0 UserName: umarhussain1996@icloud.com': 1}",0.0
+G3220T,Default,0.0,-0.8,"{'PO PO-4583-3 modified, unitcost readjusted UserName: umarhussain1996@icloud.com': 1, 'Imported from file': 1}",0.0
+G3250,Default,0.0,-5.199999999999989,"{'PO PO-4583-3 purchase item line update UserName: umarhussain1996@icloud.com': 1, 'PO PO-4583-3 modified, unitcost readjusted UserName: umarhussain1996@icloud.com': 1, 'Imported from file': 1, 'PO PO-4579-2 purchase item line update UserName: umarhussain1996@icloud.com': 1, 'PO PO-4579-2 modified, unitcost readjusted UserName: umarhussain1996@icloud.com': 1}",0.0
+G4400T,Default,2.0,0.0,"{'PO PO-4579-2 modified, unitcost readjusted UserName: umarhussain1996@icloud.com': 1, 'PO PO-4740, new item added to PO UserName: alfred@drmem.com': 1, 'PO PO-4740 delivered 1 alfred@drmem.com': 1, 'Imported from file': 1}",0.0
+GTX10808G,Gaming PC & Laptops,0.0,-5.6843418860808e-14,"{'Stock Count Adjustment UserName: gpc-line@drmem.com': 1, 'Imported from file': 1}",0.0
+HA21.2TBSAS-UF,Default,2.0,0.0,"{'PO PO-4714 delivered 1 kris@drmem.com': 1, 'PO PO-4714 modified, unitcost readjusted UserName: account@drmem.com': 1}",0.0
+HA2100-12.5-SE,Sharjah,-2.0,0.0,{'SCRAPPED BY office@drmem.com': 1},-0.0
+HA2250-12.5-TO,Sharjah,-4.0,0.0,{'SCRAPPED BY office@drmem.com': 1},-0.0
+HA240-12.5-SE,Sharjah,-2.0,0.0,{'SCRAPPED BY office@drmem.com': 1},-0.0
+HA260-12.5-SE,Sharjah,-4.0,0.0,{'SCRAPPED BY office@drmem.com': 1},-0.0
+HA2640-9-UF,Sharjah,-8.0,0.0,{'SCRAPPED BY office@drmem.com': 1},-0.0
+HA2750-9-UF,Sharjah,-22.0,0.0,{'SCRAPPED BY office@drmem.com': 1},-0.0
+HA280-12.5-SE,Sharjah,-2.0,0.0,{'SCRAPPED BY office@drmem.com': 1},-0.0
+HA314TB-UF,Default,-2.0,0.0,{'Added to transfer WT47315052025080824. Username : account@drmem.com': 1},-0.0
+HA34TB-LH,Sharjah,10.0,0.0,"{'Reset Stock Item Due Level Username : account@drmem.com': 2, 'Stock received from transfer WT47315052025080824. Username : office@drmem.com': 1, 'Adjust Stock Item Due Level Username : office@drmem.com': 1}",0.0
+HA3750-LH,Default,-6.0,0.0,{'Added to transfer WT47315052025080824. Username : account@drmem.com': 1},-0.0
+HX1.92TSSDSATA3-U-70,Default,0.0,-79.2625,"{'PO PO-4714 modified, unitcost readjusted UserName: account@drmem.com': 1}",0.0
+HX193GSSDSATA3-U,Sharjah,-6.0,0.0,{'SCRAPPED BY office@drmem.com': 1},-0.0
+HX1TSSDSATA3-UF,Default,0.0,20.0,"{'PO PO-4714 modified, unitcost readjusted UserName: account@drmem.com': 1}",0.0
+HX200GSSDSATA3-U-LH,Sharjah,0.0,0.15,{'Edit item Direct Adjustment UserName: office@drmem.com': 1},0.0
+HX256GSSDMSATA-U,Sharjah,0.0,-8.881784197001252e-16,"{'PO PO19052520786 to OPEN. Due 4 UserName: office@drmem.com': 1, 'PO PO19052520786 delivered 4 office@drmem.com': 1, 'Order 579512 ref: D0605252512': 1, 'Order 579312 ref: D0305250843': 1, 'Reset Stock Item Due Level Username : sandeep@drmem.com': 1}",0.0
+HX3.2TSSDSAS-UF,Hong Kong,2.0,0.0,"{'Stock received from transfer WT93212052025101438. Username : 1273297632@qq.com': 1, 'Adjust Stock Item Due Level Username : 1273297632@qq.com': 1}",0.0
+HX30GSSDMSATA-U-80,Default,0.0,-0.06,"{'PO PO27032554033 modified, unitcost readjusted UserName: account@drmem.com': 1}",0.0
+HX30GSSDSATA3-U-80,Default,0.0,-0.02,"{'PO PO27032554033 modified, unitcost readjusted UserName: account@drmem.com': 1}",0.0
+HX32GSSDMSATA-U-80,Default,0.0,-0.059999999999999803,"{'PO PO27032554033 purchase item line update UserName: account@drmem.com': 1, 'PO PO27032554033 modified, unitcost readjusted UserName: account@drmem.com': 1}",0.0
+HX500GSSDM2-U-80,Default,2.0,0.0,"{'PO PO-4740, new item added to PO UserName: muhammad@drmem.com': 1, 'PO PO-4740 delivered 1 muhammad@drmem.com': 1}",0.0
+HX80GSSDSATA3-UF,Hong Kong,2.0,0.0,"{'Stock received from transfer WT93212052025101438. Username : 1273297632@qq.com': 1, 'Adjust Stock Item Due Level Username : 1273297632@qq.com': 1}",0.0
+I3-3220-UF,Default,12.0,0.0,"{'PO PO-4748-2 to OPEN. Due 6 UserName: alfred@drmem.com': 1, 'PO PO-4748-2 delivered 6 alfred@drmem.com': 1}",0.0
+I5-2320-UF,Default,2.0,0.0,"{'PO PO-4737, new item added to PO UserName: alfred@drmem.com': 1, 'PO PO-4737 delivered 1 alfred@drmem.com': 1}",0.0
+I5-2400-UF,Default,16.0,0.0,"{'PO PO-4748-2 to OPEN. Due 8 UserName: alfred@drmem.com': 1, 'PO PO-4748-2 delivered 8 alfred@drmem.com': 1}",0.0
+I5-4590-UF,Default,10.0,0.0,"{'PO PO-4748-2 to OPEN. Due 3 UserName: alfred@drmem.com': 1, 'PO PO-4748-2 delivered 3 alfred@drmem.com': 1, 'PO PO-4737, new item added to PO UserName: alfred@drmem.com': 1, 'PO PO-4737 delivered 2 alfred@drmem.com': 1}",0.0
+I5-4590T-UF,Default,2.0,0.0,"{'PO PO-4748-2 to OPEN. Due 1 UserName: alfred@drmem.com': 1, 'PO PO-4748-2 delivered 1 alfred@drmem.com': 1}",0.0
+I5-4690-UF,Default,2.0,0.0,"{'PO PO-4748-2 to OPEN. Due 1 UserName: alfred@drmem.com': 1, 'PO PO-4748-2 delivered 1 alfred@drmem.com': 1}",0.0
+I5-9500T-UF,Default,2.0,0.0,"{'PO PO-4748-2 to OPEN. Due 1 UserName: alfred@drmem.com': 1, 'PO PO-4748-2 delivered 1 alfred@drmem.com': 1}",0.0
+I7-4770-UF,Default,2.0,0.0,"{'PO PO-4748-2 to OPEN. Due 1 UserName: alfred@drmem.com': 1, 'PO PO-4748-2 delivered 1 alfred@drmem.com': 1}",0.0
+I7-860-UF,Default,2.0,0.0,"{'PO PO-4748-2 to OPEN. Due 1 UserName: alfred@drmem.com': 1, 'PO PO-4748-2 delivered 1 alfred@drmem.com': 1}",0.0
+L57C13D8R512S 1030G2,Default,0.0,-5.0,"{'Imported from file': 2, 'PO PO20052521559 to OPEN. Due 1 UserName: tom@drmem.com': 1, 'PO PO20052521559 delivered 1 tom@drmem.com': 1, 'SCRAPPED BY tom@drmem.com': 1, 'PO PO28052591924 to OPEN. Due 1 UserName: tom@drmem.com': 1, 'PO PO28052591924 delivered 1 tom@drmem.com': 1, 'Order 581300 ref: 08E68C80F66A40': 1}",0.0
+L712C14D16R512S 640G9,Default,2.0,0.0,{'Stock Count Adjustment UserName: tom@drmem.com': 1},0.0
+L76C15D16R256S Zbook 15UG3-UF,Default,-2.0,0.0,{'SCRAPPED BY arturas@drmem.com': 1},-0.0
+LX32GDDR4-U,Default,0.0,-64.0,"{'Order 581339 ref: D2905253105': 1, 'PO PO-4804 to OPEN. Due 2 UserName: tier1@drmem.com': 1, 'PO PO-4804 delivered 2 tier1@drmem.com': 1}",0.0
+MZ-ILS800B,Default,-8.0,0.0,"{'Order 581183 ref: 17-13122-16648': 1, 'Order 581196 ref: 05-13138-34683': 1}",-0.0
+MZ6SR200HMFU-000C3,Default,160.0,0.0,"{'OPENING STOCK': 1, 'PO PO4684-2 to OPEN. Due 80 UserName: marius@drmem.com': 1, 'PO PO4684-2 delivered 80 marius@drmem.com': 1}",0.0
+Microscope Stands,China-Shenzhen Office-450,0.0,37.364592,"{'Added to transfer WT38720052025082527. Username : 1273297632@qq.com': 2, 'DIRECT ADJUSTMENT BY 1273297632@qq.com': 1, 'PO PO-XUM-150525 delivered 2 1273297632@qq.com': 1, 'PO PO-XUM-150525 modified, unitcost readjusted UserName: 1273297632@qq.com': 1, 'Reset Stock Item Level Username : 1273297632@qq.com': 1}",0.0
+Monitors-High,Default,0.0,-4.54747350886464e-13,"{'PO PO-4583-2 to DELIVERED. Due 0 UserName: umarhussain1996@icloud.com': 1, 'Imported from file': 1}",0.0
+NF-i7-8565U+16GB+256GB,Default,-4.0,0.0,"{'Order 580122 ref: 17-13066-23586': 1, 'Order 580166 ref: 04-13083-90932': 1}",-0.0
+Pentium-E5300,Default,0.0,-1.6,"{'PO PO-4583-3 modified, unitcost readjusted UserName: umarhussain1996@icloud.com': 1, 'Imported from file': 1}",0.0
+Pentium-E5400,Default,0.0,-0.8,"{'PO PO-4583-3 modified, unitcost readjusted UserName: umarhussain1996@icloud.com': 1, 'Imported from file': 1}",0.0
+Pentium-G5400T,Default,0.0,-0.6,"{'PO PO-4579-2 modified, unitcost readjusted UserName: umarhussain1996@icloud.com': 1}",0.0
+Q6600,Default,0.0,-0.6,"{'PO PO-4579-2 modified, unitcost readjusted UserName: umarhussain1996@icloud.com': 1}",0.0
+QFNB-DP8,Sharjah Warehouse1,0.0,-3.552713678800501e-15,"{'Stock received from transfer WT74930042025045458. Username : devananda@drmem.com': 1, 'Adjust Stock Item Due Level Username : devananda@drmem.com': 1, 'Imported from file': 1, 'SCRAPPED BY pradeep@drmem.com': 1}",0.0
+SCRAP-CPU,Default,0.0,85.46069199999943,"{'Imported from file': 2, 'PO PO-4583-3 modified, unitcost readjusted UserName: umarhussain1996@icloud.com': 1, 'PO PO-4579-2 modified, unitcost readjusted UserName: umarhussain1996@icloud.com': 1, 'PO PO-4744, new item added to PO UserName: pybillchan@gmail.com': 1, 'PO PO-4744 delivered 7 pybillchan@gmail.com': 1, 'SCRAPPED BY alfred@drmem.com': 1, 'PO PO-4710-3 to OPEN. Due 3 UserName: alfred@drmem.com': 1, 'PO PO-4710-3 delivered 3 alfred@drmem.com': 1, 'PO PO-4744 modified, unitcost readjusted UserName: umarhussain1996@icloud.com': 1, 'PO PO-4797 to OPEN. Due 24 UserName: account@drmem.com': 1}",0.0
+T4 Screw Driver,China-Shenzhen Office-450,0.0,-7.105427357601002e-15,"{'DIRECT ADJUSTMENT BY 1273297632@qq.com': 1, 'PO PO-XUM-20250522 delivered 12 1273297632@qq.com': 1, 'Added to transfer WT89826052025030359. Username : 1273297632@qq.com': 1}",0.0
+T5 Screw Driver,China-Shenzhen Office-450,0.0,3.552713678800501e-15,"{'DIRECT ADJUSTMENT BY 1273297632@qq.com': 1, 'PO PO-XUM-20250522 delivered 12 1273297632@qq.com': 1, 'Added to transfer WT89826052025030359. Username : 1273297632@qq.com': 1}",0.0
+T6 Screw Driver,China-Shenzhen Office-450,0.0,3.552713678800501e-15,"{'DIRECT ADJUSTMENT BY 1273297632@qq.com': 1, 'PO PO-XUM-20250522 delivered 12 1273297632@qq.com': 1, 'Added to transfer WT89826052025030359. Username : 1273297632@qq.com': 1}",0.0
+Xeon-E3-1225V2,Default,0.0,-0.6,"{'PO PO-4579-2 modified, unitcost readjusted UserName: umarhussain1996@icloud.com': 1}",0.0
+Xeon-E3-1241V3,Default,0.0,-0.6,"{'PO PO-4579-2 modified, unitcost readjusted UserName: umarhussain1996@icloud.com': 1}",0.0
+Xeon-E5-2603V3,Default,0.0,-0.6,"{'PO PO-4579-2 modified, unitcost readjusted UserName: umarhussain1996@icloud.com': 1, 'Imported from file': 1}",0.0
+Xeon-E5-2630,Default,0.0,-0.6,"{'PO PO-4579-2 modified, unitcost readjusted UserName: umarhussain1996@icloud.com': 1}",0.0
+Xeon-X3430,Default,0.0,-0.6,"{'PO PO-4579-2 modified, unitcost readjusted UserName: umarhussain1996@icloud.com': 1}",0.0
+i3-2120-UF,Default,6.0,0.0,"{'PO PO-4748-2 to OPEN. Due 2 UserName: alfred@drmem.com': 1, 'PO PO-4748-2 delivered 2 alfred@drmem.com': 1, 'PO PO-4737, new item added to PO UserName: alfred@drmem.com': 1, 'PO PO-4737 delivered 1 alfred@drmem.com': 1}",0.0
+i3-3240-UF,Default,4.0,0.0,"{'PO PO-4748-2 to OPEN. Due 2 UserName: alfred@drmem.com': 1, 'PO PO-4748-2 delivered 2 alfred@drmem.com': 1}",0.0
+i3-4130-UF,Default,6.0,0.0,"{'PO PO-4748-2 to OPEN. Due 3 UserName: alfred@drmem.com': 1, 'PO PO-4748-2 delivered 3 alfred@drmem.com': 1}",0.0
+i3-4130T-UF,Default,2.0,0.0,"{'PO PO-4748-2 to OPEN. Due 1 UserName: alfred@drmem.com': 1, 'PO PO-4748-2 delivered 1 alfred@drmem.com': 1}",0.0
+i3-4150-UF,Default,2.0,0.0,"{'PO PO-4748-2 to OPEN. Due 1 UserName: alfred@drmem.com': 1, 'PO PO-4748-2 delivered 1 alfred@drmem.com': 1}",0.0
+i3-4330TE-UF,Default,2.0,0.0,"{'PO PO-4748-2 to OPEN. Due 1 UserName: alfred@drmem.com': 1, 'PO PO-4748-2 delivered 1 alfred@drmem.com': 1}",0.0
+i3-6100-UF,Default,2.0,0.0,"{'PO PO-4748-2 to OPEN. Due 1 UserName: alfred@drmem.com': 1, 'PO PO-4748-2 delivered 1 alfred@drmem.com': 1}",0.0
+i3-8100-UF,Default,2.0,0.0,"{'PO PO-4748-2 to OPEN. Due 1 UserName: alfred@drmem.com': 1, 'PO PO-4748-2 delivered 1 alfred@drmem.com': 1}",0.0
+i3-8100t-UF,Default,2.0,0.0,"{'PO PO-4748-2 to OPEN. Due 1 UserName: alfred@drmem.com': 1, 'PO PO-4748-2 delivered 1 alfred@drmem.com': 1}",0.0
+i3-9100-UF,Default,2.0,0.0,"{'PO PO-4748-2 to OPEN. Due 1 UserName: alfred@drmem.com': 1, 'PO PO-4748-2 delivered 1 alfred@drmem.com': 1}",0.0
+i5 4570-UF,Default,2.0,0.0,"{'PO PO-4740, new item added to PO UserName: alfred@drmem.com': 1, 'PO PO-4740 delivered 1 alfred@drmem.com': 1}",0.0
+i5-10500T-UF,Default,4.0,0.0,"{'PO PO-4748-2 to OPEN. Due 2 UserName: alfred@drmem.com': 1, 'PO PO-4748-2 delivered 2 alfred@drmem.com': 1}",0.0
+i5-11400,Gaming PC & Laptops,2.0,0.0,"{'Adjust Stock Item Due Level Username : alfred@drmem.com': 2, 'Added to transfer WT35627052025103738. Username : alfred@drmem.com': 1, 'Stock received from transfer WT35627052025103738. Username : alfred@drmem.com': 1}",0.0
+i5-11400T-UF,Default,2.0,0.0,"{'OPENING STOCK': 1, 'PO PO-4748-2 to OPEN. Due 1 UserName: alfred@drmem.com': 1, 'PO PO-4748-2 delivered 1 alfred@drmem.com': 1}",0.0
+i5-12500-UF,Default,2.0,0.0,"{'PO PO-4748-2 to OPEN. Due 1 UserName: alfred@drmem.com': 1, 'PO PO-4748-2 delivered 1 alfred@drmem.com': 1}",0.0
+i5-2100-UF,Default,32.0,0.0,"{'PO PO-4748-2 to OPEN. Due 16 UserName: alfred@drmem.com': 1, 'PO PO-4748-2 delivered 16 alfred@drmem.com': 1}",0.0
+i5-3470-UF,Default,6.0,0.0,"{'PO PO-4748-2 to OPEN. Due 3 UserName: alfred@drmem.com': 1, 'PO PO-4748-2 delivered 3 alfred@drmem.com': 1}",0.0
+i5-3470T-UF,Default,8.0,0.0,"{'PO PO-4748-2 to OPEN. Due 4 UserName: alfred@drmem.com': 1, 'PO PO-4748-2 delivered 4 alfred@drmem.com': 1}",0.0
+i5-3570-UF,Default,2.0,0.0,"{'PO PO-4737, new item added to PO UserName: alfred@drmem.com': 1, 'PO PO-4737 delivered 1 alfred@drmem.com': 1, 'PO PO-4737 modified, unitcost readjusted UserName: alfred@drmem.com': 1}",0.0
+i5-3570T-UF,Default,2.0,0.0,"{'PO PO-4737, new item added to PO UserName: alfred@drmem.com': 1, 'PO PO-4737 delivered 1 alfred@drmem.com': 1}",0.0
+i5-4440s-UF,Default,2.0,0.0,"{'PO PO-4737, new item added to PO UserName: alfred@drmem.com': 1, 'PO PO-4737 delivered 1 alfred@drmem.com': 1}",0.0
+i5-4460-UF,Default,4.0,0.0,"{'PO PO-4737, new item added to PO UserName: alfred@drmem.com': 1, 'PO PO-4737 delivered 2 alfred@drmem.com': 1}",0.0
+i5-4570T-UF,Default,2.0,0.0,"{'PO PO-4748-2 to OPEN. Due 1 UserName: alfred@drmem.com': 1, 'PO PO-4748-2 delivered 1 alfred@drmem.com': 1}",0.0
+i5-4590s-UF,Default,4.0,0.0,"{'PO PO-4748-2 to OPEN. Due 1 UserName: alfred@drmem.com': 1, 'PO PO-4748-2 delivered 1 alfred@drmem.com': 1, 'PO PO-4737, new item added to PO UserName: alfred@drmem.com': 1, 'PO PO-4737 delivered 1 alfred@drmem.com': 1}",0.0
+i5-4670-UF,Default,2.0,0.0,"{'PO PO-4737, new item added to PO UserName: alfred@drmem.com': 1, 'PO PO-4737 delivered 1 alfred@drmem.com': 1}",0.0
+i5-4670k,Default,0.0,-9.6,"{'PO PO-4579-2 modified, unitcost readjusted UserName: umarhussain1996@icloud.com': 1, 'PO PO-4783 to OPEN. Due 1 UserName: account@drmem.com': 1}",0.0
+i5-6400T-UF,Default,2.0,0.0,"{'PO PO-4748-2 to OPEN. Due 1 UserName: alfred@drmem.com': 1, 'PO PO-4748-2 delivered 1 alfred@drmem.com': 1}",0.0
+i5-6500-UF,Default,2.0,0.0,"{'PO PO-4748-2 to OPEN. Due 1 UserName: alfred@drmem.com': 1, 'PO PO-4748-2 delivered 1 alfred@drmem.com': 1}",0.0
+i5-6500T-UF,Default,8.0,0.0,"{'PO PO-4748-2 to OPEN. Due 4 UserName: alfred@drmem.com': 1, 'PO PO-4748-2 delivered 4 alfred@drmem.com': 1}",0.0
+i5-6600-UF,Default,6.0,0.0,"{'PO PO-4748-2 to OPEN. Due 3 UserName: alfred@drmem.com': 1, 'PO PO-4748-2 delivered 3 alfred@drmem.com': 1}",0.0
+i5-7500-UF,Default,2.0,0.0,"{'PO PO-4748-2 to OPEN. Due 1 UserName: alfred@drmem.com': 1, 'PO PO-4748-2 delivered 1 alfred@drmem.com': 1}",0.0
+i5-8400-UF,Default,2.0,0.0,"{'PO PO-4748-2 to OPEN. Due 1 UserName: alfred@drmem.com': 1, 'PO PO-4748-2 delivered 1 alfred@drmem.com': 1}",0.0
+i5-8500-UF,Default,4.0,0.0,"{'PO PO-4748-2 to OPEN. Due 2 UserName: alfred@drmem.com': 1, 'PO PO-4748-2 delivered 2 alfred@drmem.com': 1}",0.0
+i5-9500E-UF,Default,2.0,0.0,"{'OPENING STOCK': 1, 'PO PO-4748-2 to OPEN. Due 1 UserName: alfred@drmem.com': 1, 'PO PO-4748-2 delivered 1 alfred@drmem.com': 1}",0.0
+i7-3770-UF,Default,4.0,0.0,"{'PO PO-4748-2 to OPEN. Due 2 UserName: alfred@drmem.com': 1, 'PO PO-4748-2 delivered 2 alfred@drmem.com': 1}",0.0
+i7-4790-UF,Default,8.0,0.0,"{'PO PO-4748-2 to OPEN. Due 1 UserName: alfred@drmem.com': 1, 'PO PO-4748-2 delivered 1 alfred@drmem.com': 1, 'PO PO-4737, new item added to PO UserName: alfred@drmem.com': 1, 'PO PO-4737 delivered 3 alfred@drmem.com': 1}",0.0
+i7-7700K,Default,0.0,0.33333333333339965,"{'Imported from file': 2, 'Order 580193 ref: 15-13072-38026': 1, 'PO PO-4740 delivered 1 alfred@drmem.com': 1}",0.0
+i7-8700-UF,Default,2.0,0.0,"{'PO PO-4748-2 to OPEN. Due 1 UserName: alfred@drmem.com': 1, 'PO PO-4748-2 delivered 1 alfred@drmem.com': 1}",0.0
+weight,Gaming PC & Laptops,-62.0,0.0,"{'Order 580198 ref: 204-3115851-4145924': 1, 'Order 580195 ref: 204-0287678-6766765': 1, 'Order 580188 ref: 204-5912173-8108325': 1, 'Order 580184 ref: 026-8063238-2049931': 1, 'PO RETURN-GPCPO14052557879 to OPEN. Due 2 UserName: matt@drmem.com': 1, 'PO RETURN-GPCPO14052557879 to OPEN. Due 1 UserName: matt@drmem.com': 1, 'PO RETURN-GPCPO14052557879 to DELIVERED. Due 1 UserName: matt@drmem.com': 1, 'PO RETURN-GPCPO14052557879 to DELIVERED. Due 0 UserName: matt@drmem.com': 1, 'Order 580270 ref: Drmem Bigcommerce3761': 1, 'Order 580271 ref: 026-8448549-6613100': 1, 'Order 580309 ref: 202-6722647-9583509': 1, 'Order 580267 ref: 203-5134978-0816337': 1, 'Order 580337 ref: Drmem Bigcommerce3763': 1, 'Order 580353 ref: 204-9419546-0049142': 1, 'Order 580355 ref: 202-0108535-5706708': 1, 'Order 580363 ref: 202-5563546-6265101': 1, 'Order 580372 ref: 026-7476968-1909151': 1, 'Order 580405 ref: 202-7010274-6208311': 1, 'Order 580438 ref: 026-1818403-7466714': 1, 'PO RETURN-GPCPO16052546460 to OPEN. Due 1 UserName: matt@drmem.com': 1, 'PO RETURN-GPCPO16052546460 to OPEN. Due 2 UserName: matt@drmem.com': 1, 'PO RETURN-GPCPO16052546460 to DELIVERED. Due 1 UserName: matt@drmem.com': 1, 'PO RETURN-GPCPO16052546460 to DELIVERED. Due 0 UserName: matt@drmem.com': 1, 'Order 580566 ref: 202-7068933-9599503': 1, 'Order 580535 ref: 203-0256947-1873956': 1, 'Order 580642 ref: 0002474A35636A': 1, 'Order 580610 ref: 205-2501209-9439539': 1, 'Order 580622 ref: 204-0616547-2411536': 1, 'Order 580626 ref: 026-8280851-9153137': 1, 'Order 580684 ref: 205-4224196-8854757': 1, 'Order 580703 ref: Drmem Bigcommerce3780': 1, 'Order 580743 ref: 0002474AD12E3A': 1, 'Order 580784 ref: 204-1358598-6397164': 1, 'Order 581098 ref: 08E687DDF64110': 1, 'Order 580880 ref: 205-4478028-7181146': 1, 'Order 581306 ref: 205-8623041-6516313': 1, 'Order 581263 ref: 204-8742128-3155510': 1, 'Order 581299 ref: 205-1197701-5760300': 1, 'Order 581267 ref: 03-13142-35131': 1}",-0.0
